@@ -12,8 +12,8 @@
 - 📈 Power BI for data visualization
 
 ## 👉 Key Outcomes:
-- Laptops, sofas, beds and smartphones dominated the Total Sales revenue in all years, while food items like organic snacks,
-  coffee and cereal generated least revenue as compared to others.
+- Laptops, Sofas, Beds and Smartphones dominated the Total Sales revenue in all years, while food items like Organic Snacks,
+  Coffee and Cereal generated least revenue as compared to others.
 - Total sales revenue in 2024 declined by 57% despite of steady revenue of $84bn in both 2023 and 2024.
 - India's total revenue contribution comprises nearly 1/3rd of the overall sales across the years.
 
